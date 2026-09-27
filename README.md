@@ -2,7 +2,7 @@
 
 An end-to-end analysis of a randomized A/B test comparing a new landing page against the current one. Data quality checks and exploratory analysis are done in SQL on Google BigQuery, statistical testing in Python, and results are summarized in a Looker Studio dashboard.
 
-**Dashboard:** [Looker Studio report](DASHBOARD_LINK)
+**Dashboard:** [Looker Studio report](https://datastudio.google.com/reporting/80577428-f13e-4756-9fbb-59f6147ec306)
 
 ![Dashboard](images/dashboard.png)
 
